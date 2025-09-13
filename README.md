@@ -3,8 +3,8 @@
 
 Clone the repository
 
-git clone https://github.com/your-username/AI-Face-Attendance.git
-cd AI-Face-Attendance
+git clone https://github.com/durgaprasad18-k/AI-Powered-Face-Detection-Based-Attendance-System/tree/main
+AI-Face-Attendance
 
 
 Create a virtual environment (optional but recommended)
